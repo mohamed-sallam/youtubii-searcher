@@ -1,0 +1,18 @@
+{
+    "YouTube Subtitle Searcher": "YouTube Subtitle Searcher",
+    "Playlist URL:": "Playlist URL:",
+    "Language (e.g., en, ar):": "Language (e.g., en, ar):",
+    "Cache subtitles": "Cache subtitles",
+    "Use cached subtitles, if any": "Use cached subtitles, if any",
+    "Load Subtitles": "Load Subtitles",
+    "Loading subtitles...": "Loading subtitles...",
+    "Search Term:": "Search Term:",
+    "Subtitles loaded.": "Subtitles loaded.",
+    "Unknown Title": "Unknown Title",
+    "Error": "Error",
+    "Warning": "Warning",
+    "Please enter a playlist URL.": "Please enter a playlist URL.",
+    "Please enter a language code.": "Please enter a language code.",
+    "Loading subtitles... (counting videos)": "Loading subtitles... (counting videos)",
+    "Failed to fetch subtitles for the following videos:\n": "Failed to fetch subtitles for the following videos:\n"
+}

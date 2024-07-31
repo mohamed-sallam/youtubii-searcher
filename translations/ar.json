@@ -1,0 +1,18 @@
+{
+    "YouTube Subtitle Searcher": "الباحث اليوتيوبي",
+    "Playlist URL:": "رابط قائمة التشغيل:",
+    "Language (e.g., en, ar):": "اللغة (مثلاً، en، ar):",
+    "Cache subtitles": "تخزين الترجمات",
+    "Use cached subtitles, if any": "استخدام الترجمات المخزنة إذا كانت موجودة",
+    "Load Subtitles": "تحميل الترجمات",
+    "Loading subtitles...": "جارٍ تحميل الترجمات...",
+    "Search Term:": "البحث:",
+    "Subtitles loaded.": "تم تحميل الترجمات.",
+    "Unknown Title": "عنوان غير معروف",
+    "Error": "خطأ",
+    "Warning": "تحذير",
+    "Please enter a playlist URL.": "يرجى إدخال رابط قائمة التشغيل.",
+    "Please enter a language code.": "يرجى إدخال رمز اللغة.",
+    "Loading subtitles... (counting videos)": "جارٍ تحميل الترجمات... (عد الفيديوهات)",
+    "Failed to fetch subtitles for the following videos:\n": "فشل في جلب الترجمة لمقاطع الفيديو التالية:\n"
+}
